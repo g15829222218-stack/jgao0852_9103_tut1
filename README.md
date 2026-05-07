@@ -19,7 +19,7 @@ Morgan Sims' *Dripping Dolly* series applies **pixel sorting** — reordering pi
 
 | | |
 |---|---|
-| ![Catsandra](Catsandra2square.jpg) | ![Ajax](Ajax1B_3.jpg) |
+| ![Catsandra](readmeImages/Catsandra2square.jpg) | ![Ajax](readmeImages/Ajax1B_3.jpg) |
 | *Catsandra* — cat form dissolving downward into pixel drips against a dark gradient | *Ajax* — dog form built from vertical colour columns that trail off into scattered pixels |
 
 ---
@@ -30,7 +30,7 @@ Morgan Sims' *Dripping Dolly* series applies **pixel sorting** — reordering pi
 
 ### Example Screenshot
 
-![Pixel sorting technique in action](sort-angled-line-60.png)
+![Pixel sorting technique in action](readmeImages/sort-angled-line-60.png)
 *Pixel sorting applied at an angled direction — columns of pixels sorted by brightness produce the characteristic drip/streak appearance.*
 
 ### Core Code Snippet
