@@ -1,9 +1,7 @@
 # jgao0852_9103_tut1
 My first repository for IDEA9103
 
-this is my first local change to the repo!
-![An image of the Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
-# Quiz 8 — Design Research: Imaging & Coding Techniques
+# Quiz 8 
 
 ---
 
@@ -63,5 +61,3 @@ p5.js provides direct access to an image's **pixel array** via `loadPixels()` an
 ### Example Links
 
 - [happycoding.io — p5.js Pixel Sorter tutorial](https://happycoding.io/tutorials/p5js/images/pixel-sorter)
-- [rkargon/pixelsorter — Python library (GitHub)](https://github.com/rkargon/pixelsorter)
-- [p5.js editor — live pixel sorting sketch](https://editor.p5js.org/aferriss/sketches/fehK4235c)
