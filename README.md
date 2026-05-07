@@ -30,7 +30,7 @@ Morgan Sims' *Dripping Dolly* series applies **pixel sorting** — reordering pi
 
 ### Example Screenshot
 
-![Pixel sorting technique in action](readmeImages/sort-angled-line-60.png)
+![Pixel sorting technique in action](readmeImages/sort-angled-line-60.jpg)
 *Pixel sorting applied at an angled direction — columns of pixels sorted by brightness produce the characteristic drip/streak appearance.*
 
 ### Core Code Snippet
